@@ -1,5 +1,5 @@
 # CoffeeSalesProject
-CoffeeSalesProject
+Coffee Sales Analysis with Excel
 
 # In this project, I used:
 
